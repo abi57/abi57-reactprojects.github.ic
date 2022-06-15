@@ -1,0 +1,13 @@
+.headermain {
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+  /* border: 1px solid red; */
+}
+.dark-mode {
+  background-color: black;
+  min-height: 100vh;
+}
+.dark-mode h1 {
+  color: white;
+}

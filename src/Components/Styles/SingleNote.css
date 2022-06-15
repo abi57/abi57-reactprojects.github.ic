@@ -1,0 +1,25 @@
+.notecontainer {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 250px;
+  margin: 15px;
+  padding: 10px;
+  border: 2px solid red;
+}
+.notecontainer strong {
+  flex: 9;
+  padding: 10px;
+  border: 1px solid black;
+}
+.notecontainer small {
+  flex: 2;
+  font-weight: bold;
+  /* padding: 10px; */
+}
+.notecontainer button {
+  width: 60px;
+  padding: 5px;
+  border-radius: 5px 0 5px 0;
+  background: aquamarine;
+}

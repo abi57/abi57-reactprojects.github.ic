@@ -1,0 +1,10 @@
+.searchnotesmain {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+.searchnotesmain input {
+  padding: 8px;
+  font-size: 15 px;
+  width: 300px;
+}

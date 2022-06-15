@@ -1,0 +1,16 @@
+.textarea {
+  margin: 15px 0 10px 15px;
+}
+
+.note-footer {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  width: 350px;
+  margin: 0 0 15px 15px;
+  padding: 10px;
+}
+.note-footer button {
+  width: 100px;
+  height: 25px;
+}

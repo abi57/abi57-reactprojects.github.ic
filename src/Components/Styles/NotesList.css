@@ -1,0 +1,9 @@
+.noteslistmain {
+  display: grid;
+  grid-template-columns: 20px 20px 20px;
+  column-gap: 400px;
+}
+
+/* .noteslistcontainer {
+  display: flex;
+} */
